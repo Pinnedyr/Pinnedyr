@@ -4,7 +4,7 @@
 
 ### 🚀 Projects
 - 🌐 [WTFQ](https://wtfq.online) – A website with tools, games and more.
-- 🎬 [Afterglow](https://github.com/copilott112/Afterglow) – A browser-based media player.
+- 💚 [Afterglow](https://github.com/Pinnedyr/offgrid) – An unblocker made for school chromebooks.
 
 ### 🛠️ Technologies
 HTML • CSS • JavaScript • Cloudflare Workers • GitHub
